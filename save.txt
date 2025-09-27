@@ -1,0 +1,4 @@
+player:Герой:20:5
+inventory:
+room:Лес
+score:2
